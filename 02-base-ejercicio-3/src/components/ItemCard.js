@@ -13,4 +13,4 @@ export default function ItemCard(item) {
       <a href="/item/${item.id}" data-link>Ver detalle →</a>
     </article>
   `;
-}
+} 
